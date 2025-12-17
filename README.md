@@ -1,6 +1,6 @@
 # WiFi QR Offline Reader
 
-**WiFi QR Offline Reader** is a simple offline Python tool to read WiFi QR codes from images and extract network credentials (SSID and password) without needing an internet connection.
+**WiFi QR Offline Reader** is a simple offline Python tool to read WiFi QR codes from images and extract network credentials (SSID and password) without needing an internet connection..
 
 ## Features
 - Fully **offline** – works without internet  
